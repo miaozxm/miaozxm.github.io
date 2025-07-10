@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+我还是打算使用中文来搭建我的主页
 
 I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
