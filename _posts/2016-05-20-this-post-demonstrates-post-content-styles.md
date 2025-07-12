@@ -1,14 +1,13 @@
 
+
+
 ---
 layout: post
-toc: true
 title: "这篇文章展示了文章内容的样式"
-categories: 杂项
-tags: [标记语言, 层叠样式表, 超文本标记语言]
-author:
-  - 巴特·辛普森
-  - 纳尔逊·曼德拉·芒茨
+categories: misc
+author: Z
 ---
+
 
 本文是一篇演示不同文章内容样式的示例文章。以下将展示标题、段落、列表、引用和代码块等样式。
 
