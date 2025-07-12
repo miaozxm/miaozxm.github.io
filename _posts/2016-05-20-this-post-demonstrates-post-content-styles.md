@@ -1,11 +1,8 @@
 
-
-
----
+--
 layout: post
 title: "这篇文章展示了文章内容的样式"
 categories: misc
-author: Z
 ---
 
 
